@@ -1,0 +1,94 @@
+[
+      {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Teriyaki",
+        "image": "https://i.ibb.co.com/2db5rPJ/free-photo-of-beef-served-in-an-asian-restaurant.jpg",
+        "description": "A delicious Japanese chicken dish glazed with sweet soy sauce.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "100 g sugar",
+          "1 garlic clove, minced",
+          "2 tbsp vegetable oil"
+        ],
+        "preparing_time": 30,
+        "calories": 320
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Pasta Alfredo",
+        "image": "https://i.ibb.co.com/9T2cFry/pexels-photo-1437267.jpg",
+        "description": "Creamy Alfredo sauce with fettuccine pasta and parmesan cheese.",
+        "ingredients": [
+          "400 g fettuccine",
+          "200 ml heavy cream",
+          "50 g parmesan cheese",
+          "2 tbsp butter",
+          "1 garlic clove, minced"
+        ],
+        "preparing_time": 25,
+        "calories": 480
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Caprese Salad",
+        "image": "https://i.ibb.co.com/Jxxdddm/pexels-photo-28841111.webp",
+        "description": "A light and refreshing Italian salad with tomatoes and mozzarella.",
+        "ingredients": [
+          "3 large tomatoes",
+          "200 g mozzarella",
+          "20 basil leaves",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": 10,
+        "calories": 150
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Mango Smoothie",
+        "image": "https://i.ibb.co.com/LC8mLy5/pexels-photo-5150216.webp",
+        "description": "A tropical smoothie with mango and yogurt.",
+        "ingredients": [
+          "2 ripe mangoes",
+          "250 ml yogurt",
+          "2 tbsp honey",
+          "100 ml milk",
+          "Ice cubes"
+        ],
+        "preparing_time": 5,
+        "calories": 200
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Basil Pesto",
+        "image": "https://i.ibb.co.com/N6xmV3p/pexels-photo-1435896.jpg",
+        "description": "A vibrant green sauce made with fresh basil and pine nuts.",
+        "ingredients": [
+          "100 g basil leaves",
+          "50 g pine nuts",
+          "50 g parmesan cheese",
+          "2 garlic cloves",
+          "100 ml olive oil"
+        ],
+        "preparing_time": 15,
+        "calories": 240
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Mushroom Soup",
+        "image": "https://i.ibb.co.com/k1Y5BDS/free-photo-of-stew-with-pasta-and-vegetables-in-pot.jpg",
+        "description": "A creamy mushroom soup perfect for chilly days.",
+        "ingredients": [
+          "400 g mushrooms",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "500 ml chicken broth",
+          "100 ml heavy cream"
+        ],
+        "preparing_time": 40,
+        "calories": 300
+      }
+    ]
+  
+  
